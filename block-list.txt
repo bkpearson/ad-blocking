@@ -1,3 +1,10 @@
+tpsc-ue1.doubleverify.com
+ap.rdcpix.com
+api-sr.amplitude.com
+ade.googlesyndication.com
+bam.nr-data.net
+client-side-metrics.us.criteo.com
+p1.parsely.com
 0.content-loader.com
 1.content-loader.com
 2.content-loader.com
