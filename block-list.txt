@@ -1,5 +1,4 @@
 tpsc-ue1.doubleverify.com
-ap.rdcpix.com
 api-sr.amplitude.com
 ade.googlesyndication.com
 bam.nr-data.net
